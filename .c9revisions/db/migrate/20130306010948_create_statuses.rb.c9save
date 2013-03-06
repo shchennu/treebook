@@ -1,0 +1,2 @@
+{"ts":1362532353391,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class CreateStatuses < ActiveRecord::Migration\n  def change\n    create_table :statuses do |t|\n      t.straing :name\n      t.text :content\n\n      t.timestamps\n    end\n  end\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":176}]],"length":176}
+{"contributors":[],"silentsave":false,"ts":1362532363666,"patch":[[{"diffs":[[0,"   t.str"],[-1,"a"],[0,"ing :nam"]],"start1":97,"start2":97,"length1":17,"length2":16}]],"length":175,"saved":false}
